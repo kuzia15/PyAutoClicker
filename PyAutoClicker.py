@@ -95,10 +95,10 @@ class PyAutoClicker:
         frame = ttk.Frame(parent)
         frame.pack(fill='x', pady=10)
 
-        self.start_btn = ttk.Button(frame, text="Start Clicking", command=self.start_clicking, width=15)
+        self.start_btn = ttk.Button(frame, text="Start", command=self.start_clicking, width=15)
         self.start_btn.pack(side='left', padx=10)
 
-        self.stop_btn = ttk.Button(frame, text="Stop Clicking", command=self.stop_clicking, width=15, state='disabled')
+        self.stop_btn = ttk.Button(frame, text="Stop", command=self.stop_clicking, width=15, state='disabled')
         self.stop_btn.pack(side='right', padx=10)
 
     def build_status_bar(self, parent):
