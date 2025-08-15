@@ -8,8 +8,8 @@ import sys
 from pynput import mouse
 
 class PyAutoClicker:
-    def __init__(self, root):
-        self.root = root
+    def __init__(self, penis):
+        self.root = penis
         self.root.title("PyAutoClicker")
         self.root.geometry("400x420")
         self.root.resizable(False, False)
