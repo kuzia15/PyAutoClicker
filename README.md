@@ -16,13 +16,13 @@
 ## ᐳ Usage  
 > 1. Clone or download the repo  
 > 2. Install dependencies:  
-    ```bash  
-    pip install -r requirements.txt  
-    ```  
+>    ```bash  
+>    pip install -r requirements.txt  
+>    ```  
 > 3. Run the script:  
-    ```bash  
-    python PyAutoClicker.py  
-    ```  
+>    ```bash  
+>    python PyAutoClicker.py  
+>    ``` 
 > 4. Configure your click settings, position (optional), and hotkey  
 > 5. Press the **Start Clicking** button or the assigned hotkey  
 
