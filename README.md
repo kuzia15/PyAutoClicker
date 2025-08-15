@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/12cc8b68-dae2-4de3-9c4b-96b3f363844b" />
 # ᐳ PyAutoClicker - Advanced Mouse AutoClicker
 
 ## ᐳ Description  
